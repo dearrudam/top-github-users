@@ -2,7 +2,6 @@
   "devMode": "false",
   "locations":[
     { "country":  "brazil", "geoName": "Brazil", "cities": ["rio-de-janeiro", "são-paulo", "manaus", "brasilia", "fortaleza", "belém", "goiânia", "belo-horizonte", "Curitiba"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" },
-    { "country":  "portugal", "geoName": "Portugal", "cities": ["lisbon", "porto", "braga", "coimbra"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" },
+    { "country":  "portugal", "geoName": "Portugal", "cities": ["lisbon", "porto", "braga", "coimbra"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" }
     ]
-  ]
 }
