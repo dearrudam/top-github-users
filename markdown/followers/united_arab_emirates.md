@@ -5,9 +5,9 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `number of followers` of users in United Arab Emirates on `2023/12/11 12:48 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `number of followers` of users in United Arab Emirates on `2024/1/23 1:45 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
-There are `138 countries` and `674 cities` can be found [here](https://github.com/gayanvoice/top-github-users).
+There are `138 countries` and `674 cities` can be found [here](https://github.com/dearrudam/top-github-users).
 
 There are `59 users`  in United Arab Emirates. You need at least `0 followers` to be on this list.
 
@@ -22,10 +22,10 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/united_arab_emirates.md">Top Users By Public Contributions</a>
+			<a href="https://github.com/dearrudam/top-github-users/blob/main/markdown/public_contributions/united_arab_emirates.md">Top Users By Public Contributions</a>
 		</td>
 		<td>
-			<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/united_arab_emirates.md">Top Users By Total Contributions</a>
+			<a href="https://github.com/dearrudam/top-github-users/blob/main/markdown/total_contributions/united_arab_emirates.md">Top Users By Total Contributions</a>
 		</td>
 		<td>
 			<strong>Top Users By Followers</strong>
@@ -38,57 +38,57 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&app_id=291494419107518&redirect_uri=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates">
+			<a href="https://t.me/share/url?url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://vk.com/share.php?url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.blogger.com/blog-this.g?n=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&s=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&body=Most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -107,19 +107,6 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/PrinceFazza">
-				<img src="https://avatars.githubusercontent.com/u/94594248?s=72&v=4" width="24" alt="Avatar of PrinceFazza"> PrinceFazza
-			</a><br/>
-			Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
-		</td>
-		<td>Crown Prince Of Dubai<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
 			<a href="https://github.com/nadeemse">
 				<img src="https://avatars.githubusercontent.com/u/5379617?s=72&u=7d29cfc38f7ed2fb658c7f1e47f3ded2834a96a4&v=4" width="24" alt="Avatar of nadeemse"> nadeemse
 			</a><br/>
@@ -129,6 +116,19 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
 		<td>17</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
+			<a href="https://github.com/PrinceFazza">
+				<img src="https://avatars.githubusercontent.com/u/94594248?s=72&v=4" width="24" alt="Avatar of PrinceFazza"> PrinceFazza
+			</a><br/>
+			Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
+		</td>
+		<td>Crown Prince Of Dubai<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Datapatrol </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>12</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -211,6 +211,19 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>9</td>
 		<td>
+			<a href="https://github.com/habeshahome">
+				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
+			</a><br/>
+			Bamlak Kemaw
+		</td>
+		<td>@qintot @website-et @epicgames <br/></td>
+		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
+		<td>Dubai, UAE</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>
 			<a href="https://github.com/VAXTrack">
 				<img src="https://avatars.githubusercontent.com/u/131601003?s=72&u=631c6154db42cf774c99c2e417169da6000af88c&v=4" width="24" alt="Avatar of VAXTrack"> VAXTrack
 			</a><br/>
@@ -222,7 +235,7 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/imluckyhussain">
 				<img src="https://avatars.githubusercontent.com/u/17722529?s=72&u=d5d192a210de9c0ee3b5eef1810f3e321129d210&v=4" width="24" alt="Avatar of imluckyhussain"> imluckyhussain
@@ -233,19 +246,6 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td><a href="https://twitter.com/IamMHussain">IamMHussain</a></td>
 		<td>Dubai</td>
 		<td>3</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/habeshahome">
-				<img src="https://avatars.githubusercontent.com/u/21142494?s=72&u=30a9e41a6b4120f358afb6d8e8749a59e24ab6ef&v=4" width="24" alt="Avatar of habeshahome"> habeshahome
-			</a><br/>
-			Bamlak Kemaw
-		</td>
-		<td>@qintot @website-et @epicgames <br/></td>
-		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
-		<td>Dubai, UAE</td>
-		<td>2</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -263,6 +263,19 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/githubdotin">
+				<img src="https://avatars.githubusercontent.com/u/30878609?s=72&u=a9be069f6f17872f17851376b5e570b70c493f0e&v=4" width="24" alt="Avatar of githubdotin"> githubdotin
+			</a><br/>
+			Nagaraju Y
+		</td>
+		<td>Emirates </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/arbaazshaikh919">
 				<img src="https://avatars.githubusercontent.com/u/10862593?s=72&u=e26394032320eeb081481c4d809e1a05f740a37a&v=4" width="24" alt="Avatar of arbaazshaikh919"> arbaazshaikh919
 			</a><br/>
@@ -274,12 +287,12 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
-			<a href="https://github.com/rahulraj2">
-				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
+			<a href="https://github.com/sunilnjc">
+				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
 			</a><br/>
-			Rahul Raj
+			sunilkumar kalabandi
 		</td>
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
@@ -287,25 +300,12 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/Nagaraju-Y">
-				<img src="https://avatars.githubusercontent.com/u/30878609?s=72&u=a9be069f6f17872f17851376b5e570b70c493f0e&v=4" width="24" alt="Avatar of Nagaraju-Y"> Nagaraju-Y
-			</a><br/>
-			Nagaraju Y
-		</td>
-		<td>Emirates </td>
-		<td>No Twitter Username</td>
-		<td>Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>16</td>
 		<td>
-			<a href="https://github.com/sunilnjc">
-				<img src="https://avatars.githubusercontent.com/u/51849589?s=72&v=4" width="24" alt="Avatar of sunilnjc"> sunilnjc
+			<a href="https://github.com/rahulraj2">
+				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
 			</a><br/>
-			sunilkumar kalabandi
+			Rahul Raj
 		</td>
 		<td>Emirates Nbd </td>
 		<td>No Twitter Username</td>
@@ -397,57 +397,57 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&_rdc=1&_rdr">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&app_id=291494419107518&redirect_uri=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&app_id=291494419107518&redirect_uri=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates">
+			<a href="https://t.me/share/url?url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&text=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://vk.com/share.php?url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&u=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md&t=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&s=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&body=List%20of%20most%20active%20github%20users%20based%20on%20number%20of%20followers%20by%20country-https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Followers%20in%20United%20Arab%20Emirates&url=https://github.com/dearrudam/top-github-users/blob/main/markdown/followers/united_arab_emirates.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -461,7 +461,7 @@ There are `59 users`  in United Arab Emirates. You need at least `0 followers` t
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action)
-- Repository - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users)
+- GitHub Action - [dearrudam/top-github-users-action](https://github.com/dearrudam/top-github-users-action)
+- Repository - [dearrudam/top-github-users](https://github.com/dearrudam/top-github-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
